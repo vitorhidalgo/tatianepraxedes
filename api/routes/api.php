@@ -18,3 +18,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::post('leads', 'Api\LeadsController@index');
+Route::get('leads', 'Api\LeadsController@testMail');
