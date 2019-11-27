@@ -1,0 +1,33 @@
+{
+    "services": [
+    {
+        "key": 1,
+        "ico": "ico-01",
+        "title": "Psicóloga Clínica",
+        "text": "A psicoterapia é um processo focado em ajudar as pessoas a resolver seus problemas emocionais.",
+        "modal": {
+            "title": "Como atua um Psicólogo Cognitivo Comportamental?",
+            "content": [
+                "A atuação de um Psicólogo Cognitivo Comportamental é focada em objetivos delineados pelo paciente e Psicólogo desde os primeiros atendimentos. É uma abordagem orientada para o problema atual e focada no momento presente. É estruturada, diretiva e com metas claras.",
+                "O Psicólogo assume postura ativa, colaborativa e educativa para ajudar o paciente a alcançar os objetivos traçados, para isso se utiliza de técnicas e atividades de casa que ajudarão a mudar padrões de comportamento indesejados.",
+                "Hoje essa abordagem da Psicologia comprova eficácia no tratamento de diversos sofrimentos psíquicos conhecidos e pode beneficiar pessoas que vivem ansiedade, depressão, estresse, fobias, traumas, problemas com a autoestima, problemas de relacionamento, aprendizagem de novas habilidades e muitas outras questões humanas.",
+                "O Psicólogo tem como função educar o paciente com o objetivo de modificar os pensamentos e sentimentos melhorando sua percepção de bem estar e contribuindo para redução de sintomas.",
+                "Escolher passar por um processo psicoterapêutico pode ser, para algumas pessoas, uma escolha difícil, já que buscar um atendimento psicológico ainda pode estar associado ao pensamento de ter uma doença psíquica, ser taxado como louco, desequilibrado ou fraco. Porém o que algumas pessoas não sabem é que se submeter a um tratamento psicológico é muito comum e não precisa estar associado a uma doença. Terapia é pra todo mundo e cada indivíduo terá um objetivo único e particular. É um ato de cuidade, de amor e respeito a si."
+            ]
+        }
+    },
+    {
+        "key": 2,
+        "ico": "ico-03",
+        "title": "Psicóloga Organizacional",
+        "text": "Atuação com o objetivo em aumentar e manter a qualidade de vida no trabalho por meio de um bom clima organizacional, condições favoráveis ao trabalho, desenvolvimento de pessoal e relação harmônica entre os funcionários.",
+        "modal": []
+    },
+    {
+        "key": 3,
+        "ico": "ico-02",
+        "title": "Desenvolvimento Humano",
+        "text": "Desenvolvimento de aspectos emocionais ampliando o olhar sobre si, sobre o outro e sobre o mundo.",
+        "modal": []
+    }]
+}

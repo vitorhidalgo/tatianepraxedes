@@ -6,6 +6,6 @@ export const Icon = props => {
   const icon = React.createElement(FontAwesome[name]);
 
   return (
-    <i style={{ fontSize: size, color: color }}>{icon}</i>
+    <i style={{ fontSize: size, color: color, lineHeight: `${(size - 10)}px` }}>{icon}</i>
   );
 };
