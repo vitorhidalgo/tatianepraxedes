@@ -14,14 +14,14 @@ export default class App extends Component {
   render() {
     return (
         <>
-          <HeaderContact />
+          {/* <HeaderContact />
           <ModuleLogo />
           <Services />
           <About />
-          <Phrase />
+          <Phrase /> */}
           <Contact />
-          <ModuleLogo inverted={true} />
-          <ModuleFooter />
+          {/* <ModuleLogo inverted={true} />
+          <ModuleFooter /> */}
           <GlobalStyle />
         </>
     );

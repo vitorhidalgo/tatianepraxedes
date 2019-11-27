@@ -142,18 +142,25 @@ export const Button = styled.button`
     padding: 17px 15px;
     color: ${colors.red.hexa};
     font-family: ${fonts.playfair};
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1;
     background: ${colors.white.hexa};
     display: flex;
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
+    margin: 0 auto;
+    font-weight: bold;
+
+    &:hover{
+        background-color: ${colors.red.hexa};
+        color: ${colors.white.hexa};
+    }
 
     @media only screen and (max-width: 1170px){
         border: ${calcSizeVw(2, 1170)}vw solid ${colors.red.hexa};
         padding: ${calcSizeVw(17, 1170)}vw ${calcSizeVw(15, 1170)}vw;
-        font-size: ${calcSizeVw(14, 1170)}vw;
+        font-size: ${calcSizeVw(16, 1170)}vw;
     }
     
     @media only screen and (max-width: 770px){
