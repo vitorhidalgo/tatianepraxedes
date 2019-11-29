@@ -8,7 +8,7 @@ const schema = Yup.object().shape({
   name: Yup.string().required("Campo Obrigatório"),
   email: Yup.string()
     .email("E-mail inválido")
-    .required("Campo Obrigatório"),
+    .required("Campo Obrigatório "),
   message: Yup.string().required("Mensagem Obrigatória")
 });
 
