@@ -15,5 +15,10 @@ export const Container = styled.div`
 
   @media only screen and (max-width: 600px){
     padding: 20px 0;
+    
+    img{
+      width: 40%;
+      margin: 0 auto;
+    }
   }
 `;

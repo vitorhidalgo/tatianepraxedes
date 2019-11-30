@@ -43,8 +43,17 @@ export const Container = styled.div`
     }
 
     h3{
-      line-height: 1;
+      line-height: 22px;
+      font-size: 17px;
       text-align: center;
+    }
+
+    p{
+      text-align: center;
+    }
+
+    img{
+      margin: 20px auto 0 auto;
     }
   }
 `;

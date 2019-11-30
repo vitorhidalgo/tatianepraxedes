@@ -9,6 +9,7 @@ import {
     Title,
     Modal,
     Content,
+    Overflow,
     Button,
     TitleModal,
     TextModal,
@@ -44,12 +45,14 @@ export default function Item(props) {
                     <Modal>
                         <Content>
                             <Button onClick={() => eventModal()}><Icon name="FaTimes" size={25} color={colors.white.hexa} /></Button>
-                            <TitleModal>{props.modal.title}</TitleModal>
-                            {
-                                props.modal.content.map(text => (
-                                    <TextModal>{text}</TextModal>
-                                ))
-                            }
+                            <Overflow>
+                                <TitleModal>{props.modal.title}</TitleModal>
+                                {
+                                    props.modal.content.map(text => (
+                                        <TextModal>{text}</TextModal>
+                                    ))
+                                }
+                            </Overflow>
                         </Content>
                     </Modal>
                 )

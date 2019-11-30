@@ -35,6 +35,8 @@ export const Container = styled.div`
     }
 
     @media only screen and (max-width: 600px){
+        padding: 10px 0;
+        
         .content{
             display: flex;
             flex-wrap: wrap;

@@ -3,11 +3,33 @@ import styled from 'styled-components';
 import { Form, Input } from '@rocketseat/unform';
 
 import { colors } from '../../styles/variables';
-import { Button } from '../../styles/global';
+// import { Button } from '../../styles/global';
 
 export const Container = styled.div`
   padding: 50px 0;
   background-color: ${colors.white.hexa};
+
+  p{
+    text-align: center;
+  }
+
+  a{
+    color: ${colors.darkRed.hexa};
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+
+    &:hover{
+      text-decoration: underline;
+    }
+
+    i{
+      margin-right: 5px;
+      display: inherit;
+    }
+  }
 
   @media only screen and (max-width: 600px){
     padding: 20px 0;
