@@ -1,2 +1,0 @@
-{{ $lead->name }}
-E-mail
