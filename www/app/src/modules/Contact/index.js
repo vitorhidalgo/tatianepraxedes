@@ -32,8 +32,8 @@ export default function Contact() {
       <div className="content">
         <h2>Contato</h2>
         <p>
-          Entre em contato comigo, pelo e-mail abaixo, que terei o maior prazer em atende-lo.<br />
-          <a href="mailto:contato@tatianepraxedes.com.br"><Icon name={"FaEnvelope"} size={13} color={colors.darkRed.hexa} />  contato@tatianepraxedes.com.br</a>
+          Entre em contato comigo, pelo e-mail abaixo, que terei o maior prazer em atendê-lo.<br />
+          <a href="mailto:tatiane.sandroni@gmail.com"><Icon name={"FaEnvelope"} size={13} color={colors.darkRed.hexa} />  tatiane.sandroni@gmail.com</a>
         </p>
         {/* <FForm schema={schema} onSubmit={submitHandler}>
           <Label htmlFor={"name"}>

@@ -47,7 +47,7 @@ export const GlobalStyle = createGlobalStyle`
 
     h3{
         font-family: ${fonts.lato};
-        font-size: 20px;
+        font-size: 18px;
         color: ${colors.darkGray.hexa};
         line-height: 24px;
         position: relative;

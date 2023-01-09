@@ -15,9 +15,9 @@ export default function HeaderContact() {
                 (11) 99651-8884
             </a>
             <span>|</span>
-            <a href="mailto:contato@tatianepraxedes.com.br" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:tatiane.sandroni@gmail.com" target="_blank" rel="noopener noreferrer">
                 <Icon name={"FaEnvelope"} size={14} color={colors.red.hexa} /> 
-                contato@tatianepraxedes.com.br
+                tatiane.sandroni@gmail.com
             </a>
         </div>
       </Container>

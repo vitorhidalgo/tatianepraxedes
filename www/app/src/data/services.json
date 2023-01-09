@@ -3,31 +3,38 @@
     {
         "key": 1,
         "ico": "ico-01",
-        "title": "Psicóloga Clínica",
-        "text": "A psicoterapia é um processo focado em ajudar as pessoas a resolver seus problemas emocionais. Clique no link abaixo e saiba mais sobre a abordagem Cognitiva Comportamental.",
+        "title": "Abordagem Comportamental Contextual",
+        "text": "Nessa abordagem terapêutica a intenção é ajudar o paciente a construir uma vida em direção aos seus valores pessoais.",
         "modal": {
-            "title": "Como atua um Psicólogo Cognitivo Comportamental?",
+            "title": "Abordagem Comportamental Contextual",
             "content": [
-                "A atuação de um Psicólogo Cognitivo Comportamental é focada em objetivos delineados pelo paciente e Psicólogo desde os primeiros atendimentos. É uma abordagem orientada para o problema atual e focada no momento presente. É estruturada, diretiva e com metas claras.",
-                "O Psicólogo assume postura ativa, colaborativa e educativa para ajudar o paciente a alcançar os objetivos traçados, para isso se utiliza de técnicas e atividades de casa que ajudarão a mudar padrões de comportamento indesejados.",
-                "Hoje essa abordagem da Psicologia comprova eficácia no tratamento de diversos sofrimentos psíquicos conhecidos e pode beneficiar pessoas que vivem ansiedade, depressão, estresse, fobias, traumas, problemas com a autoestima, problemas de relacionamento, aprendizagem de novas habilidades e muitas outras questões humanas.",
-                "O Psicólogo tem como função educar o paciente com o objetivo de modificar os pensamentos e sentimentos melhorando sua percepção de bem estar e contribuindo para redução de sintomas.",
-                "Escolher passar por um processo psicoterapêutico pode ser, para algumas pessoas, uma escolha difícil, já que buscar um atendimento psicológico ainda pode estar associado ao pensamento de ter uma doença psíquica, ser taxado como louco, desequilibrado ou fraco. Porém o que algumas pessoas não sabem é que se submeter a um tratamento psicológico é muito comum e não precisa estar associado a uma doença. Terapia é pra todo mundo e cada indivíduo terá um objetivo único e particular. É um ato de cuidade, de amor e respeito a si."
+                "Nessa abordagem terapêutica a intenção é ajudar o paciente a construir uma vida em direção aos seus valores pessoais. Uma das tarefas será avaliar o comportamento para verificar o que está em déficit ou em excesso, também analisamos a função dos comportamentos. Atuamos de forma a alcançar a flexibilidade psicológica, podemos dizer que a flexibilidade psicológica é a capacidade de nos adaptar aos altos e baixos que a vida nos apresenta. Essa competência está diretamente ligada a maturidade emocional, é possível treinar esse tipo de habilidade que consiste em se envolver no aqui e agora sem julgar seus pensamentos e sentimentos.",
+                "É uma terapia focada em objetivos delineados pelo paciente e Psicólogo desde os primeiros atendimentos."
             ]
         }
     },
     {
         "key": 2,
         "ico": "ico-03",
-        "title": "Psicóloga Organizacional",
-        "text": "Atuação com o objetivo em aumentar e manter a qualidade de vida no trabalho por meio de um bom clima organizacional, condições favoráveis ao trabalho, desenvolvimento de pessoal e relação harmônica entre os funcionários.",
-        "modal": []
+        "title": "Terapia dos Esquemas",
+        "text": "A terapia dos esquemas foi pensada para aqueles pacientes que não respondem bem a terapia cognitiva comportamental clássica.",
+        "modal": {
+            "title": "Terapia dos Esquemas",
+            "content": [
+                "A terapia dos esquemas foi pensada para aqueles pacientes que não respondem bem a terapia cognitiva comportamental clássica. Muitas vezes os pacientes relatam entenderem racionalmente que não existem evidências para seus sentimentos e pensamentos, mas continuam sentindo uma emoção significativamente incômoda. Esse modelo de tratamento reúne estratégias cognitivas, comportamentais e vivenciais, proporcionando acesso as emoções do paciente. É uma abordagem considerada eficiente para muitos casos crônicos."
+            ]
+        }
     },
     {
         "key": 3,
         "ico": "ico-02",
-        "title": "Desenvolvimento Humano",
-        "text": "Desenvolvimento de aspectos emocionais ampliando o olhar sobre si, sobre o outro e sobre o mundo.",
-        "modal": []
+        "title": "Terapia Comportamental Dialética (DBT)",
+        "text": "O objetivo principal da terapia dialética comportamental é que o paciente aprenda a regular a sua emoção extrema e seus impulsos...",
+        "modal": {
+            "title": "Terapia Comportamental Dialética (DBT)",
+            "content": [
+                "O objetivo principal da terapia dialética comportamental é que o paciente aprenda a regular a sua emoção extrema e seus impulsos, reduzindo comportamentos disfuncionais. É considerada a abordagem mais efetiva para pessoas com alta desregulação emocional, comportamentos autolesivos e ideação suicida. A DBT (terapia dialética comportamental) engloba o tratamento individual, o treinamento de habilidades (individual ou em grupo) e coaching telefônico entre as sessões. A terapia tende a ser diretiva e baseada no aqui e agora, buscando abordar os problemas do paciente. A atenção prioritária é dada para os comportamentos suicidas e autodestrutivos, depois a comportamentos que interfiram na terapia. Na sequência assuntos ligados a qualidade de vida do paciente e sua melhora. Na fase final do tratamento é dada atenção à intervenção no trauma psicológico e à promoção do autorrespeito. Para alguns pacientes é necessário encontrar um sentido mais profundo para a sua existência."
+            ]
+        }
     }]
 }

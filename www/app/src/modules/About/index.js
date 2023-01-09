@@ -9,8 +9,8 @@ const About = () => (
         <div className="content">
             <Left>
                 <h2>Prazer, sou a<br />Tatiane Praxedes</h2>
-                <h3>Sou Psicóloga com formação em Psicologia Cognitiva Comportamental e especialista em Psicologia Organizacional.</h3>
-                <p>Atuo na clínica com atendimentos individuais focando o tratamento de problemas emocionais e nas organizações com a promoção de saúde emocional e desenvolvimento de pessoas. Atuo como Psicóloga desde 2004.</p>
+                <h3>Sou psicóloga clínica com formação em terapia cognitiva comportamental (TCC), terapia dos esquemas, terapia dialética comportamental (DBT) e terapias contextuais. Parte da minha história profissional também foi dedicada à psicologia organizacional, da qual também sou especialista.</h3>
+                <p>Minha missão é promover saúde mental ajudando as pessoas a lidar com suas dores emocionais.</p>
                 <Image
                     src={require('../../images/logo-gray.png')}
                     webp={require('../../images/logo-gray.webp')}
