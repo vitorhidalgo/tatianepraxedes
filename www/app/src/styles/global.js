@@ -23,6 +23,23 @@ export const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased !important;
     }
 
+    .main {
+        max-width: 900px;
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        gap: 32px;
+
+        @media only screen and (max-width: 770px) {
+            flex-direction: column;
+
+            p {
+                text-align: center;
+            }
+        }
+    }
+
     .content{
         max-width: 1170px;
         width: 100%;
@@ -51,6 +68,12 @@ export const GlobalStyle = createGlobalStyle`
         margin-bottom: 40px;
         text-align: center;
         line-height: 1.2;
+
+        @media only screen and (max-width: 770px) {
+            br {
+                display: none;
+            }
+        }
     }
 
     h3{

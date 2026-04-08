@@ -5,7 +5,7 @@ import { colors } from '../../styles/variables';
 export const Container = styled.div`
   background-color: ${colors.lightGray.hexa};
   position: relative;
-  height: 590px;
+  /* height: 590px; */
 
   .content{
     height: 100%;
@@ -16,6 +16,7 @@ export const Container = styled.div`
 
     img{
       margin-top: 20px;
+      height: auto;
     }
   }
 
@@ -26,7 +27,7 @@ export const Container = styled.div`
 
   h3{
     font-weight: normal;
-    line-height: 32px;
+    /* line-height: 32px; */
     text-align: left;
   }
 
@@ -45,7 +46,7 @@ export const Container = styled.div`
     }
 
     h3{
-      line-height: 32px;
+      /* line-height: 32px; */
       font-size: 17px;
       text-align: center;
     }

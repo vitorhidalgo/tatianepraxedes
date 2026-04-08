@@ -1,64 +1,34 @@
 import React from "react";
 import Image from "react-image-webp";
 
-// import { Icon } from "../icon";
-
 import {
   Container,
   Text,
   Title,
-  // Modal,
-  // Content,
-  // Overflow,
-  // Button,
-  // TitleModal,
-  // TextModal,
-  // Link,
+  ContentText
 } from "./styles";
-// import { colors } from "../../styles/variables";
 
 export default function Item(props) {
-  // const [modal, setModal] = useState(false);
-
-  // function eventModal() {
-  //   setModal(!modal);
-  // }
-
   return (
     <>
       <Container>
-        <Image
-          src={require(`../../images/${props.ico}.png`)}
-          webp={require(`../../images/${props.ico}.webp`)}
-          alt={props.title}
-          width="120"
-          height="120"
-          loading="lazy"
-        />
-        <Title>{props.title}</Title>
-        {/* <Text dangerouslySetInnerHTML={{ __html: props.text }} /> */}
-        {props.modal.content.map((text) => (
-          <Text dangerouslySetInnerHTML={{ __html: text }} />
-        ))}
-        {/* {props.modal.length !== 0 && (
-          <Link onClick={() => eventModal()}>Saiba mais</Link>
-        )} */}
+        <div className="main">
+          <Image
+            src={require(`../../images/${props.ico}.png`)}
+            webp={require(`../../images/${props.ico}.webp`)}
+            alt={props.title}
+            width="120"
+            height="120"
+            loading="lazy"
+          />
+          <ContentText>
+            <Title dangerouslySetInnerHTML={{
+              __html: props.title
+            }} />
+            <Text dangerouslySetInnerHTML={{ __html: props.modal.content }} />
+          </ContentText>
+        </div>
       </Container>
-      {/* {props.modal.length !== 0 && modal && (
-        <Modal>
-          <Content>
-            <Button onClick={() => eventModal()}>
-              <Icon name="FaTimes" size={25} color={colors.white.hexa} />
-            </Button>
-            <Overflow>
-              <TitleModal>{props.modal.title}</TitleModal>
-              {props.modal.content.map((text) => (
-                <TextModal dangerouslySetInnerHTML={{ __html: text }} />
-              ))}
-            </Overflow>
-          </Content>
-        </Modal>
-      )} */}
     </>
   );
 }

@@ -4,19 +4,43 @@ import { colors, fonts } from '../../styles/variables';
 
 export const Container = styled.li`
     width: 100%;
+    max-width: 100%;
     padding: 50px 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
 
     &:nth-child(even) {
         background-color: ${colors.lightGray.hexa};
+
+        .main {
+            flex-direction: row-reverse;
+
+            h3, p {
+                text-align: right;
+            }
+        }
+
+        @media only screen and (max-width: 770px) {
+            .main {
+                flex-direction: column;
+
+                h3, p {
+                    text-align: center;
+                }
+                
+                li {
+                    text-align: left;
+                }
+            }
+        }
     }
 
     img{
         margin-bottom: 20px;
     }
+
+    
 
     @media only screen and (max-width: 600px){
         width: 100%;
@@ -33,6 +57,13 @@ export const Container = styled.li`
     }
 `;
 
+export const ContentText = styled.div`
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+`;
+
 export const Title = styled.h3`
     max-width: 1170px;
     width: 100%;
@@ -41,8 +72,16 @@ export const Title = styled.h3`
     font-weight: bold;
     color: ${colors.darkRed.hexa};
     margin-bottom: 20px;
-    text-align: center;
     padding: 0 20px;
+    text-align: left;
+
+    @media only screen and (max-width: 770px) {
+        text-align: center;
+
+        br {
+            display: none;
+        }
+    }
     `;
 
 export const TitleModal = styled(Title)`
@@ -57,15 +96,27 @@ export const TitleModal = styled(Title)`
     }
 `;
 
-export const Text = styled.p`
+export const Text = styled.div`
     max-width: 1170px;
     width: 100%;
-    font-family: ${fonts.lato};
-    font-size: 16px;
-    line-height: 24px;
-    color: ${colors.darkGray.hexa};
-    text-align: center;
     padding: 0 20px;
+    
+    p, li {
+        font-family: ${fonts.lato};
+        font-size: 16px;
+        line-height: 24px;
+        color: ${colors.darkGray.hexa};
+        margin-bottom: 10px;
+    }
+
+    ul {
+        padding-left: 20px;
+
+        li {
+            margin-bottom: 0;
+            list-style: disc;
+        }
+    }
 
     a{
         color: ${colors.red.hexa};

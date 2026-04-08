@@ -9,6 +9,10 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
 
+  img {
+    height: auto;
+  }
+
   @media only screen and (max-width: 1024px){
     padding: 110px 0 20px 0;
   }

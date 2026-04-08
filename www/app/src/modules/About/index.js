@@ -12,18 +12,11 @@ const About = () => (
           Prazer, sou a<br />
           Tatiane Praxedes
         </h2>
-        <h3>
-          Sou psicóloga clínica com formação em{" "}
-          <strong>Terapia Cognitiva Comportamental (TCC)</strong>,{" "}
-          <strong>Terapia dos Esquemas</strong>,{" "}
-          <strong>Terapia Comportamental Dialética (DBT)</strong> e{" "}
-          <strong>Terapias Contextuais.</strong> Parte da minha história
-          profissional também foi dedicada à psicologia organizacional, da qual
-          também sou especialista.
-        </h3>
+        <h3>Acredito que buscar ajuda é um ato de coragem. Meu trabalho é estar ao seu lado nesse processo — com escuta genuína, técnica sólida e respeito pelo seu tempo.</h3>
         <p>
-          Minha missão é promover saúde mental ajudando as pessoas a lidar com
-          suas dores emocionais.
+          Sou psicóloga desde 2004, com especializações em quatro abordagens: <strong>Terapia Cognitivo-Comportamental (TCC), Terapia dos Esquemas, Terapia Comportamental Dialética (DBT) e em psicologia organizacional.</strong> <br />
+          Ao longo desses mais de 20 anos, acompanhei centenas de pessoas em momentos de crise, transição e crescimento.<br /><br />
+          Cada pessoa chega com uma história diferente. Por isso, adapto o trabalho de acordo com o que você precisa — seja entender padrões que se repetem na sua vida, aprender a lidar com emoções intensas, ou simplesmente ter um espaço seguro para pensar.
         </p>
         <Image
           src={require("../../images/logo-gray.png")}

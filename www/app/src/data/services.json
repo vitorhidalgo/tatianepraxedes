@@ -3,37 +3,31 @@
     {
       "key": 1,
       "ico": "ico-01",
-      "title": "Abordagem Comportamental Contextual",
+      "title": "Terapia Cognitivo-Comportamental (TCC) <br />Foco em pensamentos, emoções e comportamentos",
       "text": "Nessa abordagem terapêutica a intenção é ajudar o paciente a construir uma vida em direção aos seus valores pessoais.",
       "modal": {
         "title": "Abordagem Comportamental Contextual",
-        "content": [
-          "Nessa abordagem terapêutica a intenção é ajudar o paciente a construir uma vida em direção aos seus valores pessoais. Uma das tarefas será avaliar o comportamento para verificar o que está em déficit ou em excesso, também analisamos a função dos comportamentos. Atuamos de forma a alcançar a flexibilidade psicológica, podemos dizer que a flexibilidade psicológica é a capacidade de nos adaptar aos altos e baixos que a vida nos apresenta. Essa competência está diretamente ligada a maturidade emocional, é possível treinar esse tipo de habilidade que consiste em se envolver no aqui e agora sem julgar seus pensamentos e sentimentos. É uma terapia focada em objetivos delineados pelo paciente e Psicólogo desde os primeiros atendimentos."
-        ]
+        "content": "<p>A TCC parte da ideia de que a forma como interpretamos os eventos da nossa vida influencia diretamente o que sentimos e como agimos. Juntos, identificamos padrões de pensamento que geram sofrimento e trabalhamos para substituí-los por perspectivas mais realistas e funcionais.</p><p><strong>Como funciona na prática</strong>, as sessões combinam exploração de situações do dia a dia, exercícios práticos e pequenas tarefas entre encontros. O processo é estruturado, colaborativo e com foco em resultados concretos — você aprende ferramentas que pode usar de forma independente.</p>"
       }
     },
     {
       "key": 2,
       "ico": "ico-03",
-      "title": "Terapia dos Esquemas",
+      "title": "Terapia dos Esquemas (TE) <br />Raízes profundas de padrões emocionais",
       "text": "A <strong>Terapia dos Esquemas</strong> foi pensada para aqueles pacientes que não respondem bem a Terapia Cognitiva Comportamental clássica.",
       "modal": {
         "title": "Terapia dos Esquemas",
-        "content": [
-          "A <strong>Terapia dos esquemas</strong> foi pensada para aqueles pacientes que não respondem bem a Terapia Cognitiva Comportamental clássica. Muitas vezes os pacientes relatam entenderem racionalmente que não existem evidências para seus sentimentos e pensamentos, mas continuam sentindo uma emoção significativamente incômoda. Esse modelo de tratamento reúne estratégias cognitivas, comportamentais e vivenciais, proporcionando acesso as emoções do paciente. É uma abordagem considerada eficiente para muitos casos crônicos."
-        ]
+        "content": "<p>Alguns padrões de sofrimento têm raízes em experiências vividas desde a infância - crenças profundas sobre si mesmo, os outros e o mundo que chamamos de esquemas. Eles moldam silenciosamente nossas relações, escolhas e reações mesmo quando queremos agir diferente.</p><p><strong>Como funciona na prática</strong> o trabalho envolve compreender de onde vieram esses padrões, acolher as necessidades que ficaram por atender e, gradualmente, desenvolver novas formas de se relacionar consigo mesmo e com o mundo. É uma abordagem mais profunda, indicada para dificuldades persistentes e questões de identidade e relacionamentos.</p>"
       }
     },
     {
       "key": 3,
       "ico": "ico-02",
-      "title": "Terapia Comportamental Dialética (DBT)",
+      "title": "Terapia Comportamental Dialética (DBT) <br />Para quem sente as emoções de forma muito intensa",
       "text": "O objetivo principal da <strong>Terapia Comportamental Dialética</strong> é que o paciente aprenda a regular a sua emoção extrema e seus impulsos...",
       "modal": {
         "title": "Terapia Comportamental Dialética (DBT)",
-        "content": [
-          "O objetivo principal da <strong>Terapia Comportamental Dialética</strong> é que o paciente aprenda a regular a sua emoção extrema e seus impulsos, reduzindo comportamentos disfuncionais. É considerada a abordagem mais efetiva para pessoas com alta desregulação emocional, comportamentos autolesivos e ideação suicida. A <strong>DBT (Terapia Dialética Comportamental)</strong> engloba o tratamento individual, o treinamento de habilidades (individual ou em grupo) e coaching telefônico entre as sessões. A terapia tende a ser diretiva e baseada no aqui e agora, buscando abordar os problemas do paciente. A atenção prioritária é dada para os comportamentos suicidas e autodestrutivos, depois a comportamentos que interfiram na terapia. Na sequência assuntos ligados a qualidade de vida do paciente e sua melhora. Na fase final do tratamento é dada atenção à intervenção no trauma psicológico e à promoção do autorrespeito. Para alguns pacientes é necessário encontrar um sentido mais profundo para a sua existência."
-        ]
+        "content": "<p>Você já teve a sensação de que suas emoções chegam como uma onda enorme — difíceis de controlar, que passam rápido demais ou demoram tempo demais para ir embora? A DBT foi criada exatamente para pessoas que vivem dessa forma.</p><p>A ideia central é simples: você pode se aceitar do jeito que é e, ao mesmo tempo, trabalhar para se sentir melhor. Não é um ou outro — é os dois juntos.</p><p>O que você vai aprender, ao longo das sessões, desenvolvemos juntos quatro habilidades práticas para o dia a dia:</p><ul><li><strong>Atenção ao momento presente:</strong> aprender a pausar antes de reagir, sem se julgar.</li><li><strong>Lidar com momentos difíceis:</strong> ter ferramentas para atravessar crises sem piorar a situação.</li><li><strong>Entender e regular as emoções:</strong> reconhecer o que sente e ter mais controle sobre como isso afeta sua vida.</li><li><strong>Melhorar os relacionamentos:</strong> comunicar o que precisa de forma clara, sem se perder ou magoar quem está ao redor.</li></ul>"
       }
     }
   ]
