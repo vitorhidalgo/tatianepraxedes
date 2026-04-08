@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "key": 1,
+      "ico": "ico-01",
+      "title": "Abordagem Comportamental Contextual",
+      "text": "Nessa abordagem terapêutica a intenção é ajudar o paciente a construir uma vida em direção aos seus valores pessoais.",
+      "modal": {
+        "title": "Abordagem Comportamental Contextual",
+        "content": [
+          "Nessa abordagem terapêutica a intenção é ajudar o paciente a construir uma vida em direção aos seus valores pessoais. Uma das tarefas será avaliar o comportamento para verificar o que está em déficit ou em excesso, também analisamos a função dos comportamentos. Atuamos de forma a alcançar a flexibilidade psicológica, podemos dizer que a flexibilidade psicológica é a capacidade de nos adaptar aos altos e baixos que a vida nos apresenta. Essa competência está diretamente ligada a maturidade emocional, é possível treinar esse tipo de habilidade que consiste em se envolver no aqui e agora sem julgar seus pensamentos e sentimentos. É uma terapia focada em objetivos delineados pelo paciente e Psicólogo desde os primeiros atendimentos."
+        ]
+      }
+    },
+    {
+      "key": 2,
+      "ico": "ico-03",
+      "title": "Terapia dos Esquemas",
+      "text": "A <strong>Terapia dos Esquemas</strong> foi pensada para aqueles pacientes que não respondem bem a Terapia Cognitiva Comportamental clássica.",
+      "modal": {
+        "title": "Terapia dos Esquemas",
+        "content": [
+          "A <strong>Terapia dos esquemas</strong> foi pensada para aqueles pacientes que não respondem bem a Terapia Cognitiva Comportamental clássica. Muitas vezes os pacientes relatam entenderem racionalmente que não existem evidências para seus sentimentos e pensamentos, mas continuam sentindo uma emoção significativamente incômoda. Esse modelo de tratamento reúne estratégias cognitivas, comportamentais e vivenciais, proporcionando acesso as emoções do paciente. É uma abordagem considerada eficiente para muitos casos crônicos."
+        ]
+      }
+    },
+    {
+      "key": 3,
+      "ico": "ico-02",
+      "title": "Terapia Comportamental Dialética (DBT)",
+      "text": "O objetivo principal da <strong>Terapia Comportamental Dialética</strong> é que o paciente aprenda a regular a sua emoção extrema e seus impulsos...",
+      "modal": {
+        "title": "Terapia Comportamental Dialética (DBT)",
+        "content": [
+          "O objetivo principal da <strong>Terapia Comportamental Dialética</strong> é que o paciente aprenda a regular a sua emoção extrema e seus impulsos, reduzindo comportamentos disfuncionais. É considerada a abordagem mais efetiva para pessoas com alta desregulação emocional, comportamentos autolesivos e ideação suicida. A <strong>DBT (Terapia Dialética Comportamental)</strong> engloba o tratamento individual, o treinamento de habilidades (individual ou em grupo) e coaching telefônico entre as sessões. A terapia tende a ser diretiva e baseada no aqui e agora, buscando abordar os problemas do paciente. A atenção prioritária é dada para os comportamentos suicidas e autodestrutivos, depois a comportamentos que interfiram na terapia. Na sequência assuntos ligados a qualidade de vida do paciente e sua melhora. Na fase final do tratamento é dada atenção à intervenção no trauma psicológico e à promoção do autorrespeito. Para alguns pacientes é necessário encontrar um sentido mais profundo para a sua existência."
+        ]
+      }
+    }
+  ]
+}
